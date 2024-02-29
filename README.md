@@ -7,6 +7,6 @@ This is a PyTorch project from Coursera "Introduction to Computer Vision and Ima
 
 <img width="423" alt="image" src="https://github.com/ArdaTarim/StopSignDetection-PyTorch/assets/122305197/c734c54c-4967-4bcf-9ece-6a928bbecfce">
 
-![stop_1](https://github.com/ArdaTarim/StopSignDetection-PyTorch/assets/122305197/73875d55-1c2a-4249-a3dc-0b625d01c9bc)
+<img width="423" alt="image" src="https://github.com/ArdaTarim/StopSignDetection-PyTorch/assets/122305197/0bb8b8f7-26e3-466f-be06-d7009cc38016">
 
 
